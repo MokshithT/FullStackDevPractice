@@ -1,0 +1,2 @@
+# FullStackDevPractice
+Assignments and learnings.
